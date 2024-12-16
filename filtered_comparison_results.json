@@ -1,0 +1,738 @@
+[
+    {
+        "main_dish": "Rasam",
+        "nearby_dish": "Rasam",
+        "main_price": "$ 4.95",
+        "nearby_price": 5.15,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Sambar",
+        "nearby_dish": "Sambar",
+        "main_price": "$ 4.95",
+        "nearby_price": 5.15,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Garden Soup",
+        "nearby_dish": "Garden Soup",
+        "main_price": "$ 4.95",
+        "nearby_price": 6.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Garden Salad",
+        "nearby_dish": "Garden Salad",
+        "main_price": "$ 4.95",
+        "nearby_price": 6.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Tomato Soup",
+        "nearby_dish": "Tomato Soup",
+        "main_price": "$ 4.95",
+        "nearby_price": 5.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Katchumber Salad",
+        "nearby_dish": "Katchumber Salad",
+        "main_price": "$ 4.95",
+        "nearby_price": 6.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Idly in sambar bowl",
+        "nearby_dish": "Iddly in Sambar Bowl",
+        "main_price": "$ 6.95",
+        "nearby_price": 6.95,
+        "similarity_score": 0.7371827882770099,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Idly in Rasam bowl",
+        "nearby_dish": "Iddly in Rasam Bowl",
+        "main_price": "$ 6.95",
+        "nearby_price": 6.95,
+        "similarity_score": 0.7399076645757484,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Combo in Sambar Bowl",
+        "nearby_dish": "Iddly in Sambar Bowl",
+        "main_price": "$ 5.99",
+        "nearby_price": 6.95,
+        "similarity_score": 0.7207721936660704,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Batata Vada",
+        "nearby_dish": "Batata Vada",
+        "main_price": "$ 4.95",
+        "nearby_price": 6.45,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Mysore Bonda",
+        "nearby_dish": "Bonda",
+        "main_price": "$ 4.95",
+        "nearby_price": 6.45,
+        "similarity_score": 0.7811219840534797,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Samosa",
+        "nearby_dish": "Samosa",
+        "main_price": "$ 4.95",
+        "nearby_price": 6.45,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Samosa Chat",
+        "nearby_dish": "Samosa Chat",
+        "main_price": "$ 6.95",
+        "nearby_price": 7.45,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Gobi Manchurian Dry",
+        "nearby_dish": "Gobi Manchurian Dry",
+        "main_price": "$ 9.95",
+        "nearby_price": 9.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Sada Dosa",
+        "nearby_dish": "Sada Dosa",
+        "main_price": "$ 8.95",
+        "nearby_price": 9.45,
+        "similarity_score": 1.0000000000000002,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Masala Dosa",
+        "nearby_dish": "Masala Dosa",
+        "main_price": "$ 9.95",
+        "nearby_price": 10.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Butter Sada Dosa",
+        "nearby_dish": "Sada Dosa",
+        "main_price": "$ 8.95",
+        "nearby_price": 9.45,
+        "similarity_score": 0.7471774295034461,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Butter Masala Dosa",
+        "nearby_dish": "Butter Mysore Masala Dosa",
+        "main_price": "$ 9.95",
+        "nearby_price": 12.45,
+        "similarity_score": 0.7991679918757364,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Paper Roast Dosa",
+        "nearby_dish": "Paper Roast",
+        "main_price": "$ 9.95",
+        "nearby_price": 10.45,
+        "similarity_score": 0.9427188893776103,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Mysore Sada Dosa",
+        "nearby_dish": "Sada Dosa",
+        "main_price": "$ 9.95",
+        "nearby_price": 9.45,
+        "similarity_score": 0.7625001769873192,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Podi Masala Dosa",
+        "nearby_dish": "Sesame Podi Masala Dosa",
+        "main_price": "$ 9.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.7370514545193919,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Onion Chilli Masala Dosa",
+        "nearby_dish": "Onion Masala Dosa",
+        "main_price": "$ 9.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.7871974649250743,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Mysore Masala Dosa",
+        "nearby_dish": "Butter Mysore Masala Dosa",
+        "main_price": "$ 9.95",
+        "nearby_price": 12.45,
+        "similarity_score": 0.7764677898981084,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Set Dosa",
+        "nearby_dish": "Set Dosa",
+        "main_price": "$ 8.95",
+        "nearby_price": 10.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Mushroom Masala Dosa",
+        "nearby_dish": "Mushroom Pondicherry Masala Dosa",
+        "main_price": "$ 10.75",
+        "nearby_price": 12.45,
+        "similarity_score": 0.7924004328248605,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Paneer Masala Dosa",
+        "nearby_dish": "Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 10.95,
+        "similarity_score": 0.7542675270655411,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Paneer Bhurji Dosa",
+        "nearby_dish": "Paneer Bhurji",
+        "main_price": "$ 12.95",
+        "nearby_price": 14.2,
+        "similarity_score": 0.9294926386276225,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Spinach Masala Dosa",
+        "nearby_dish": "Spinach Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 11.45,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Cheese Onion Chili Masala Dosa",
+        "nearby_dish": "Onion Chili Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.8693888929386023,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Spring Masala Dosa",
+        "nearby_dish": "Spring Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 11.45,
+        "similarity_score": 1.0000000000000002,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Pondicherry Masala Dosa",
+        "nearby_dish": "Cheese Pondicherry Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 12.45,
+        "similarity_score": 0.8154195482628392,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Paneer Pondicherry Dosa",
+        "nearby_dish": "Pondicherry Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.7545381886515596,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Mushroom, Paneer, Spinach Masala Dosa",
+        "nearby_dish": "Spinach Masala Dosa",
+        "main_price": "$ 13.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.7553930386346784,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Cheese Pondicherry dosa",
+        "nearby_dish": "Cheese Pondicherry Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 12.45,
+        "similarity_score": 0.9280604488321575,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Cheese Sada Dosa",
+        "nearby_dish": "Sada Dosa",
+        "main_price": "$ 10.75",
+        "nearby_price": 9.45,
+        "similarity_score": 0.7916947848101634,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Rava Sada Dosa",
+        "nearby_dish": "Sada Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 9.45,
+        "similarity_score": 0.8000302141630374,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Onion Rava Masala Dosa",
+        "nearby_dish": "Onion Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.7986096005196859,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Onion Mysore Rava Masala Dosa",
+        "nearby_dish": "Mysore Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.7270602061013774,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Cheese Onion Rava Masala Dosa",
+        "nearby_dish": "Cheese Masala Dosa",
+        "main_price": "$ 12.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.708020147631915,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Coconut Rava Masala Dosa",
+        "nearby_dish": "Rava Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.7172312917774512,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Chana Masala",
+        "nearby_dish": "Chana Masala",
+        "main_price": "$ 11.95",
+        "nearby_price": 12.95,
+        "similarity_score": 1.0000000000000002,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Alu Baingan",
+        "nearby_dish": "Alu Baingan",
+        "main_price": "$ 11.95",
+        "nearby_price": 12.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Palak Paneer",
+        "nearby_dish": "Palak Paneer",
+        "main_price": "$ 12.95",
+        "nearby_price": 14.2,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Paneer Tikka Masala",
+        "nearby_dish": "Paneer Tikka Masala",
+        "main_price": "$ 12.95",
+        "nearby_price": 14.2,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Malai Kofta",
+        "nearby_dish": "Malai Kofta",
+        "main_price": "$ 12.95",
+        "nearby_price": 12.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Paneer Bhurji",
+        "nearby_dish": "Paneer Bhurji",
+        "main_price": "$ 12.95",
+        "nearby_price": 14.2,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Bhindi Masala",
+        "nearby_dish": "Bhindi Masala",
+        "main_price": "$ 11.95",
+        "nearby_price": 11.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Palak",
+        "nearby_dish": "Palak Paneer",
+        "main_price": "$ 10.95",
+        "nearby_price": 14.2,
+        "similarity_score": 0.81872000060699,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Gobi",
+        "nearby_dish": "Gobi Masala Dosa",
+        "main_price": "$ 11.95",
+        "nearby_price": 11.45,
+        "similarity_score": 0.7470094962158284,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Pongal",
+        "nearby_dish": "Pongal Vada",
+        "main_price": "$ 8.95",
+        "nearby_price": 10.95,
+        "similarity_score": 0.7811219840534797,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Avial",
+        "nearby_dish": "Avial",
+        "main_price": "$ 11.95",
+        "nearby_price": 12.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Chilli Paratha",
+        "nearby_dish": "Paratha",
+        "main_price": "$ 10.95",
+        "nearby_price": 6.95,
+        "similarity_score": 0.7186991417888167,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Chole Poori",
+        "nearby_dish": "Chole Poori",
+        "main_price": "$ 12.95",
+        "nearby_price": 13.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "South Indian Thali",
+        "nearby_dish": "South Indian Thali Combo Platter",
+        "main_price": "$ 15.95",
+        "nearby_price": 16.95,
+        "similarity_score": 0.7660506455007217,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Paratha",
+        "nearby_dish": "Paratha",
+        "main_price": "$ 4.95",
+        "nearby_price": 6.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Poori",
+        "nearby_dish": "Poori",
+        "main_price": "$ 4.95",
+        "nearby_price": 7.45,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Alu Paratha",
+        "nearby_dish": "Alu Paratha",
+        "main_price": "$ 6.95",
+        "nearby_price": 7.45,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Onion Paratha",
+        "nearby_dish": "Paratha",
+        "main_price": "$ 6.95",
+        "nearby_price": 6.95,
+        "similarity_score": 0.7487462869692765,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Gobi Paratha",
+        "nearby_dish": "Paratha",
+        "main_price": "$ 6.95",
+        "nearby_price": 6.95,
+        "similarity_score": 0.7186991417888167,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Cheese Paratha",
+        "nearby_dish": "Paratha",
+        "main_price": "$ 6.95",
+        "nearby_price": 6.95,
+        "similarity_score": 0.7222327509911566,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Paneer Paratha",
+        "nearby_dish": "Paratha",
+        "main_price": "$ 6.95",
+        "nearby_price": 6.95,
+        "similarity_score": 0.8001959203824229,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Lemon Rice",
+        "nearby_dish": "Lemon Rice",
+        "main_price": "$ 9.95",
+        "nearby_price": 8.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Tamarind Rice",
+        "nearby_dish": "Tamarind Rice",
+        "main_price": "$ 9.95",
+        "nearby_price": 8.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Tomato Rice",
+        "nearby_dish": "Tomato Rice",
+        "main_price": "$ 9.95",
+        "nearby_price": 8.95,
+        "similarity_score": 1.0000000000000002,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Coconut Rice",
+        "nearby_dish": "Coconut Rice",
+        "main_price": "$ 9.95",
+        "nearby_price": 8.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Yogurt Rice",
+        "nearby_dish": "Yogurt Rice",
+        "main_price": "$ 9.95",
+        "nearby_price": 7.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Gulab Jamun",
+        "nearby_dish": "Gulab Jamun",
+        "main_price": "$ 4.95",
+        "nearby_price": 5.45,
+        "similarity_score": 1.0000000000000002,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Badam Halwa",
+        "nearby_dish": "Badam Halwa",
+        "main_price": "$ 5.95",
+        "nearby_price": 5.45,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Kulfi Malai",
+        "nearby_dish": "Kulfi",
+        "main_price": "$ 4.95",
+        "nearby_price": 5.45,
+        "similarity_score": 0.7811219840534797,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Halwa with Ice Cream",
+        "nearby_dish": "Ice Cream",
+        "main_price": "$ 6.95",
+        "nearby_price": 5.95,
+        "similarity_score": 0.7322233224099095,
+        "restaurant_name": "Restaurant 1"
+    },
+    {
+        "main_dish": "Mulligatawny Soup",
+        "nearby_dish": "Mulligatawny Soup",
+        "main_price": "$ 4.95",
+        "nearby_price": 4.99,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 2"
+    },
+    {
+        "main_dish": "Medu Vada",
+        "nearby_dish": "Medu Vada",
+        "main_price": "$ 5.95",
+        "nearby_price": 5.99,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 2"
+    },
+    {
+        "main_dish": "Dahi Vada",
+        "nearby_dish": "Dahi Vada",
+        "main_price": "$ 4.95",
+        "nearby_price": 6.99,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 2"
+    },
+    {
+        "main_dish": "Chilli Pakora",
+        "nearby_dish": "Pakora",
+        "main_price": "$ 6.95",
+        "nearby_price": 5.99,
+        "similarity_score": 0.770953370217906,
+        "restaurant_name": "Restaurant 2"
+    },
+    {
+        "main_dish": "Veg Fried Rice",
+        "nearby_dish": "Fried Rice",
+        "main_price": "$ 9.95",
+        "nearby_price": 8.99,
+        "similarity_score": 0.8084935152153179,
+        "restaurant_name": "Restaurant 2"
+    },
+    {
+        "main_dish": "North Indian Thali",
+        "nearby_dish": "North Indian Thali",
+        "main_price": "$ 15.95",
+        "nearby_price": 17.99,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 2"
+    },
+    {
+        "main_dish": "Batura",
+        "nearby_dish": "Chole Batura",
+        "main_price": "$ 4.95",
+        "nearby_price": 14.99,
+        "similarity_score": 0.754345847421444,
+        "restaurant_name": "Restaurant 2"
+    },
+    {
+        "main_dish": "Lassi- Chaas",
+        "nearby_dish": "Chaas",
+        "main_price": "$ 4.95",
+        "nearby_price": 5.0,
+        "similarity_score": 0.7749196348626132,
+        "restaurant_name": "Restaurant 2"
+    },
+    {
+        "main_dish": "Chilli Paneer Dry",
+        "nearby_dish": "Paneer Chilli - Dry",
+        "main_price": "$ 9.95",
+        "nearby_price": 14.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 3"
+    },
+    {
+        "main_dish": "Saag Paneer",
+        "nearby_dish": "Saag Paneer",
+        "main_price": "$ 12.95",
+        "nearby_price": 11.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 3"
+    },
+    {
+        "main_dish": "Roti",
+        "nearby_dish": "Tandoori Roti",
+        "main_price": "$ 3.95",
+        "nearby_price": 2.95,
+        "similarity_score": 0.7742144274654872,
+        "restaurant_name": "Restaurant 3"
+    },
+    {
+        "main_dish": "Kheer",
+        "nearby_dish": "Kheer",
+        "main_price": "$ 4.95",
+        "nearby_price": 5.95,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 3"
+    },
+    {
+        "main_dish": "Aloo",
+        "nearby_dish": "Aloo Gobi",
+        "main_price": "$ 10.95",
+        "nearby_price": "$13.99",
+        "similarity_score": 0.7363896933461761,
+        "restaurant_name": "Restaurant 4"
+    },
+    {
+        "main_dish": "Egg Plant Curry",
+        "nearby_dish": "Egg curry",
+        "main_price": "$ 11.95",
+        "nearby_price": "$9.99",
+        "similarity_score": 0.7469620372610117,
+        "restaurant_name": "Restaurant 4"
+    },
+    {
+        "main_dish": "Aloo Baingan",
+        "nearby_dish": "Aloo baingan",
+        "main_price": "$ 10.95",
+        "nearby_price": "$9.99",
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 4"
+    },
+    {
+        "main_dish": "water",
+        "nearby_dish": "Water",
+        "main_price": "$ 1.95",
+        "nearby_price": "$2.00",
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 4"
+    },
+    {
+        "main_dish": "Gobi Lasuni",
+        "nearby_dish": "Lasuni Gobi",
+        "main_price": "$ 9.95",
+        "nearby_price": 10.99,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 5"
+    },
+    {
+        "main_dish": "Veg Hakka Noodles",
+        "nearby_dish": "Veg Noodles",
+        "main_price": "$ 9.95",
+        "nearby_price": 11.99,
+        "similarity_score": 0.7349747056610574,
+        "restaurant_name": "Restaurant 5"
+    },
+    {
+        "main_dish": "Ghee Roast",
+        "nearby_dish": "Ghee Roast",
+        "main_price": "$ 8.95",
+        "nearby_price": 10.99,
+        "similarity_score": 1.0,
+        "restaurant_name": "Restaurant 5"
+    },
+    {
+        "main_dish": "Ghee Masala Roast",
+        "nearby_dish": "Ghee Roast",
+        "main_price": "$ 8.95",
+        "nearby_price": 10.99,
+        "similarity_score": 0.932962743002316,
+        "restaurant_name": "Restaurant 5"
+    },
+    {
+        "main_dish": "Kadai Paneer",
+        "nearby_dish": "Kadai Paneer",
+        "main_price": "$ 12.95",
+        "nearby_price": 14.99,
+        "similarity_score": 1.0000000000000002,
+        "restaurant_name": "Restaurant 5"
+    },
+    {
+        "main_dish": "Dum Biryani",
+        "nearby_dish": "Mutton Dum Biryani",
+        "main_price": "$ 11.95",
+        "nearby_price": 19.99,
+        "similarity_score": 0.8279856445117412,
+        "restaurant_name": "Restaurant 5"
+    }
+]

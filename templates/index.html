@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Village ML Pricing</title>
+</head>
+<body>
+    <h1>Village Menu & Predicted Prices</h1>
+    <h2>Weather</h2>
+    <p>Temperature: {{ weather_data.temperature | round }}°F</p>
+    <p>Condition: {{ weather_data.condition }}</p>
+
+    <h2>Predicted Prices</h2>
+    <ul>
+        {% for item in predicted_prices %}
+        <li>{{ item.item }}: ${{ item.price }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

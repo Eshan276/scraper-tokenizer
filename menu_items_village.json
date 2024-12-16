@@ -1,0 +1,959 @@
+{
+    "menu": [
+        {
+            "name": "Rasam",
+            "description": "South Indian spiced Lentil soup",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Sambar",
+            "description": "Lentil based Vegetable soup",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Mulligatawny Soup",
+            "description": "Lentil thick soup with pepper & spices",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Garden Soup",
+            "description": "Mixed Vegetables Soup",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Kachumbar Salad",
+            "description": "Chopped salad dressed with a lemon and spicy vinegar",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Garden Salad",
+            "description": "Dressing with lettuce, tomato, cucumber & Carrots",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Veg Manchow soup",
+            "description": "South Indian spiced Lentil soup",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Tomato Soup",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Katchumber Salad",
+            "description": "Simple Chopped salad with Onions, Tomato and Cucumber Chips",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Idly",
+            "description": "A Savary rice cake from Indian subcontinent",
+            "price": "$ 5.95"
+        },
+        {
+            "name": "Masala Idly",
+            "description": "Rice cakes sauthed with Indian spices & herbs",
+            "price": "$ 7.95"
+        },
+        {
+            "name": "Mini Idly",
+            "description": "Small cocktail Idly",
+            "price": "$ 5.95"
+        },
+        {
+            "name": "Ghee fried Idly",
+            "description": "Rice cakes fried with spices and onions salth",
+            "price": "$ 7.95"
+        },
+        {
+            "name": "Podi Idly",
+            "description": "Rice pan cakes spiced with dry channa daal powder",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Chilli Idly",
+            "description": "Rice cakes cooked with onion and bellpepper in Chinese chilli sauce",
+            "price": "$ 7.95"
+        },
+        {
+            "name": "Idly in sambar bowl",
+            "description": "Rice cakes smothered with sambar",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Idly in Rasam bowl",
+            "description": "Rice cakes smothered with rasam soup",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Dami Idly",
+            "description": "Rice cakes soaked in sweet yogurt",
+            "price": "$ 5.95"
+        },
+        {
+            "name": "Dahi Idly",
+            "description": "Rice Cakes soaked in sweet yogurt",
+            "price": "$ 5.95"
+        },
+        {
+            "name": "Medu Vada",
+            "description": "Lentil flour Donuts",
+            "price": "$ 5.95"
+        },
+        {
+            "name": "Medu Vada in sambar bowl",
+            "description": "Lentil flour Donuts smothered with sambar",
+            "price": "$ 5.99"
+        },
+        {
+            "name": "Medu Vada in Rasam Bowl",
+            "description": "Lentil flour Donuts smothered with rasam soup",
+            "price": "$ 5.99"
+        },
+        {
+            "name": "Combo",
+            "description": "Rice cake & Lentil Donut",
+            "price": "$ 5.99"
+        },
+        {
+            "name": "Combo in Sambar Bowl",
+            "description": "Idly & Vada",
+            "price": "$ 5.99"
+        },
+        {
+            "name": "Masala Vada",
+            "description": "Crispy chenna dal mixed with spiced & Fried",
+            "price": "$ 5.95"
+        },
+        {
+            "name": "Dahi Vada",
+            "description": "Lentil donut soaked in sweet yogout",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Batata Vada",
+            "description": "Mashed potato spices & Fried with Chickpeas flour",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Mysore Bonda",
+            "description": "Lentil balls spices & cashew fried",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Chennai Pakkoda",
+            "description": "Onions & Chenna Dal Spices fried",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Spring rolls",
+            "description": "Vegetables stuffed platter",
+            "price": "$ 5.95"
+        },
+        {
+            "name": "Paneer Pakkoda",
+            "description": "Cottage cheese deep fried with spices",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Samosa",
+            "description": "Spiced potato with green peas dumplings",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Aloo Tikki",
+            "description": "Mashed Potato with spiced fried",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Chilli Pakora",
+            "description": "",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Bhel puri",
+            "description": "Crispy rice puffs topped with onions, Tomato chutney and spices.",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Samosa Chat",
+            "description": "Samosas topped with chickpeas, onions, Tomato, yogurt, chutney and spices.",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Aloo Tikki Chat",
+            "description": "Aloo tikkis topped with chickpeas, onions,Tomato,yogurt, chutney and spices.",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Papdi Chat",
+            "description": "Crispy pooris topped chana, onions Tomato, yogurt, chutney and spices.",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Dahi Bhalla",
+            "description": "Soft lentil balls dipped in spiced yogurt topped with chutney",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Channa Chat",
+            "description": "Chickpeas in Yogurt, Tamarind, Cilantro , Onion, Tomato Sauce",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Aloo Chat",
+            "description": "Potato in a Yogurt, Tamarind, Cilantro, Onion Tomato Sauce",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Vadda Pav",
+            "description": "",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Chilly Paneer Dry",
+            "description": "Cottage cheese tossed in our homemade chilli sauce",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Gobi Manchurian Dry",
+            "description": "Cauliflower tossed in home style sauce",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Chilli Mushroom",
+            "description": "Mushroom tossed with Onion & Ball pepper in chineese sauce",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Crispy Chilli Potato",
+            "description": "Sliced Potato tossed in dried red chilli & Onions",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Honey Garlic Gobi",
+            "description": "Onion & Cauliflower tossed with homemade sauce & Honey",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Gobi Lasuni",
+            "description": "Cauliflower sauteed with chilli sauces",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Veg Hakka Noodles",
+            "description": "Indian style vegetable hakka noodles have vegetables like onion, cabbage, bell pepper and carrots.",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Veg Fried Rice",
+            "description": "Cooked Rice Fried with Vegetables & Spices",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Chinese Dosa",
+            "description": "Topped with noodles, dosa batter, cabbage, capsicum, paneer, peas, lemon juice and some common spices.",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Veg Manchurian",
+            "description": "Vegetables tossed in home styles sauce",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "baby corn chilli manchurian",
+            "description": "Vegetables tossed in home styles sauce",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Chilli Paneer Dry",
+            "description": "Cottage cheese tossed in our home made chilli sauce",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Sada Dosa",
+            "description": "Thin rice creape / Soft thick rice creape",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Masala Dosa",
+            "description": "Creape with mashed potato spices",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Butter Sada Dosa",
+            "description": "Creape cooked with butter",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Butter Masala Dosa",
+            "description": "Creape cooked with butter & potato",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Ghee Roast",
+            "description": "Clarified butter creape",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Paper Roast Dosa",
+            "description": "Thin layer creape",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Mysore Sada Dosa",
+            "description": "Spicy red creape",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Podi Masala Dosa",
+            "description": "Creape with chana dal/ Red chilli & Spices",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Gun Powder masala dosa",
+            "description": "Creape very spicy with chana dal / red chilli & spices fried with potato",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Onion Chilli Sada Dosa",
+            "description": "Creape cooked with Onion & Chilli",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Onion Chilli Masala Dosa",
+            "description": "Crepe topped with chopped onions and green chilis.",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Mysore Masala Dosa",
+            "description": "Spicy red creape",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Ghee Masala Roast",
+            "description": "Clarified butter creape",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Set Dosa",
+            "description": "Thin rice creape / Soft thick rice creape",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Chef Special Sampler Dosa 5 Kinds",
+            "description": "",
+            "price": "$ 21.95"
+        },
+        {
+            "name": "Mushroom Masala Dosa",
+            "description": "Creape cooked with mushroom & spiced Potatos",
+            "price": "$ 10.75"
+        },
+        {
+            "name": "Jaipur Dosa",
+            "description": "Paneer / Potato/ Onion / Tomato / Chillis",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Paneer Masala Dosa",
+            "description": "Creape cooked with cottage cheese & potato",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Paneer Bhurji Dosa",
+            "description": "Creape cooked with cottage cheese, Onions, Bell Pepper",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Spinach Masala Dosa",
+            "description": "Creape cooked with Spinach & Potato spices",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Cheese Onion Chili Masala Dosa",
+            "description": "Creape cooked with chedder cheese & spices",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Cheese Masala Dosa or sada",
+            "description": "Creape cooked with Chedder Cheese",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Spring Masala Dosa",
+            "description": "Creape cooked with (cabbage, onions, Ball pepper & potato)",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Pondicherry Masala Dosa",
+            "description": "Creape rolled & filled with potato & Spices",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Paneer Pondicherry Dosa",
+            "description": "Creape made spicy filled with cottage cheese & potato",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Mushroom, Paneer, Spinach Masala Dosa",
+            "description": "",
+            "price": "$ 13.95"
+        },
+        {
+            "name": "Cheese Pondicherry dosa",
+            "description": "Creape rolled & filled with potato & Spices",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Cheese Sada Dosa",
+            "description": "Creape cooked with Chedder Cheese",
+            "price": "$ 10.75"
+        },
+        {
+            "name": "Plain Uthappam",
+            "description": "Lentil and Rice Flour Pancake",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Vegetable Uthappam",
+            "description": "Thick rice pancakes topped with vegetables looks like Pizza no cheese",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Onion Chilli Uthappam",
+            "description": "Topped with Onion & Green Chilli",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Mushroom Uthappam",
+            "description": "Topped with Onion & Sliced mushroom",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Onion Chilli Garlic Uthappam",
+            "description": "Topped with Chilli, Tomato & Garlic",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Gun Powder Uthappam",
+            "description": "Topped with Dosa Podi & Gunpowder",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Vegetable cheese Uthappam",
+            "description": "Topped with Onion, Tomato, Peas, Carrots & Cheese",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Paneer Uthappam",
+            "description": "Topped with sliced paneer",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Custom Uthappam",
+            "description": "(Ask for anytype of toping available in store)",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Rava Sada Dosa",
+            "description": "Semolina creape only",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Onion Rava Masala Dosa",
+            "description": "Semolina creape with mashed spiced potato",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Onion Mysore Rava Masala Dosa",
+            "description": "Semolina creape made spicy with house spices",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Madras Rava Masala Dosa",
+            "description": "Semolina creape made with Onion chilli & house spices",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Cheese Onion Rava Masala Dosa",
+            "description": "Rava Dosa Filled with Cheese, Onions and Seasoned Potato Filling",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Coconut Rava Masala Dosa",
+            "description": "Rava Dosa filled with coconut",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Matka Dosa",
+            "description": "Mix veg cooked with paneer, cream & myonnese & Cheese",
+            "price": "$ 14.95"
+        },
+        {
+            "name": "Jinni Dosa",
+            "description": "Dosa cooked & rolled with paneer sauce with vegetables",
+            "price": "$ 14.95"
+        },
+        {
+            "name": "Village Special Dosa- Rava",
+            "description": "Dosa cooked with garlic/chilli/onion & cheese",
+            "price": "$ 14.95"
+        },
+        {
+            "name": "Village Special Dosa- Regular",
+            "description": "Dosa cooked with garlic/chilli/onion & cheese",
+            "price": "$ 14.95"
+        },
+        {
+            "name": "Aloo Gobi or Mutter or Palak",
+            "description": "Potato & Creamed Spinach, Green Pea, Cauliflower Mildly Spiced Tomato Sauce",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Gobi mutter or Aloo",
+            "description": "Fresh Cauliflower cooked in Onion base Sauce",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Chana Masala",
+            "description": "Chickpea, Onion & Masala Spices",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Chana Palak",
+            "description": "spinach and chick peas cooked with spices",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Aloo",
+            "description": "",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Mutter",
+            "description": "Potato & Creamed Spinach, Green Pea, Cauliflower Mildly Spiced Tomato Sauce",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Dal Makhni",
+            "description": "",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Daal Tadka / Palak",
+            "description": "Yellow Lentils cooked and spices with your choice of Spinach or no Spinach.",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Alu Baingan",
+            "description": "Made with diced potatoes and eggplant that have been simmer dine",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Daal tadka",
+            "description": "Yellow Lentils cooked & spices with your choice of spinach or no spinach",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Mutter Paneer",
+            "description": "Green peas and homemade cheese cooked with spices",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Palak Paneer",
+            "description": "spinach and homemade cheese cooked with spices",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Saag Paneer",
+            "description": "Cooked spinach studded with cubes of fried paneer cheese",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Paneer Tikka Masala",
+            "description": "Cubes of paneer & veggies marinated with yogurt and spices.",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Kadai Paneer",
+            "description": "fresh cheese made by curdling milk with lemon .",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Methi Mutter Malai",
+            "description": "fresh methi leaves with green peas and creamy in a sweet, rich and creamy curry",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Kadai Mushroom",
+            "description": "Hot, spicy, flavorful button mushrooms and bell peppers",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Malai Kofta",
+            "description": "Paneer dumblings served with rich,creamy and delicious gravy",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Paneer Bhurji",
+            "description": "scrambled paneer or cottage cheese with spiced mixture made of onions,gingerc garlic paste",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Bhindi Masala",
+            "description": "Made with okra, whole and ground spices, onions & tomatoes.",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Egg Plant Curry",
+            "description": "Roasted Eggplant (Brinjal) stars in this strong flavoured curry",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Baigan Bharta",
+            "description": "Roasted eggplant mash cooked with spices,",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Nav Ratan Korma",
+            "description": "Rich luxurious curry dish made with mixed vegetables",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Vegetable Korma (Vegan)",
+            "description": "Loaded with potatoes, tomatoes, carrots, peas, and green beans",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Aloo Baingan",
+            "description": "Made with diced potatoes and eggplant that have been simmered in a spiced onion tomato",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Veg Kolhapuri",
+            "description": "Coconut based extra spicy curry with vegetables",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Palak",
+            "description": "",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Paneer",
+            "description": "(South Indian style sauce made with spices & cooked Onions Tomato coconut made spicy)",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Mix Vegetables",
+            "description": "(South Indian style sauce made with spices & cooked Onions Tomato coconut made spicy)",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Gobi",
+            "description": "(South Indian style sauce made with spices & cooked Onions Tomato coconut made spicy)",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Soya",
+            "description": "(South Indian style sauce made with spices & cooked Onions Tomato coconut made spicy)",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Chole Bature",
+            "description": "Large Puffed Bread with Spicy Chickpeas",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Poori Bhaji",
+            "description": "Spiced aloo sabji or bhaji with hints of coriander, ginger and other Indian spices",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Poori Kurma",
+            "description": "",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Uppma",
+            "description": "Semolina with Onion, Cashews, Chilli with Indian Spices",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Pongal",
+            "description": "Rice, Lentil, Spices, Nuts & Butter Served with Coconut Chutney & Sambar",
+            "price": "$ 8.95"
+        },
+        {
+            "name": "Avial",
+            "description": "Mixed vegetables cooked with coconut milk,Yogurt and Spices",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Chilli Paratha",
+            "description": "Indian Layerd Bread Chopped & Cooked with chineese sauce, Ginger & Garlic",
+            "price": "$ 10.95"
+        },
+        {
+            "name": "Chole Poori",
+            "description": "Large Puffed Bread with Spicy Chickpeas",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Kuthu Chilli Paratha",
+            "description": "Indian Layered Bread Chopped & cooked with chinese sauce, ginger & garlic",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Poondu Kulambu (Garlic)",
+            "description": "Gravy made with a tamarind based broth and loaded with lots of garlic.",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Ennai Kathrika Kulambu (Egg plant)",
+            "description": "Gravy in which brinjals are stuffed with flavourful fresh ground masalas and sauteed in oil",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Vendaikai Kulambu (Okra)",
+            "description": "Tender okra/lady's finger is simmered in tangy tamarind gravy",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Murungaikai Kulambu (Drumstick)",
+            "description": "A spicy and tangy tamarind based curry made with drumsticks",
+            "price": "$ 12.95"
+        },
+        {
+            "name": "Chennai Thali",
+            "description": "Idly, Vada, Dosa, Uthappam, Sambar, Chutney, Badam Halwa",
+            "price": "$ 15.95"
+        },
+        {
+            "name": "South Indian Thali",
+            "description": "Sambar, Rasam, Kulambu, Kootu Avial, Poriyal, Pickle Yogurt, Pappadam, Rice, Semiya Payasam",
+            "price": "$ 15.95"
+        },
+        {
+            "name": "North Indian Thali",
+            "description": "Chole, Daal, Any Paneer \u2013 Rice, Roti, Pickle, Raita, Kheer / Pappad",
+            "price": "$ 15.95"
+        },
+        {
+            "name": "Roti",
+            "description": "",
+            "price": "$ 3.95"
+        },
+        {
+            "name": "Paratha",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Poori",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Alu Paratha",
+            "description": "",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Onion Paratha",
+            "description": "",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Gobi Paratha",
+            "description": "",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Onion chilli Paratha",
+            "description": "",
+            "price": "$ 5.95"
+        },
+        {
+            "name": "Cheese Paratha",
+            "description": "",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Paneer Paratha",
+            "description": "",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Batura",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Onion / Chilly Kuthu Parantha",
+            "description": "",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Dum Biryani",
+            "description": "Goodness of rice and vegetables that comes in layers",
+            "price": "$ 11.95"
+        },
+        {
+            "name": "Veg Pullav",
+            "description": "Basmati Rice, Vegetables & Spices",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Jeera Rice",
+            "description": "",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Lemon Rice",
+            "description": "Riced Cooked with Lemon Juice & Spices",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Tamarind Rice",
+            "description": "Rice Cooked with Tamarind & Spices",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Vangi Bhath",
+            "description": "Rice, Lentil & Eggplant Cooked with Spices",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "B.B.B Bishibilabath",
+            "description": "",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Tomato Rice",
+            "description": "Rice Cooked with Tomato & Spices",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Coconut Rice",
+            "description": "Rice Cooked with Ground Coconut & Nuts",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Yogurt Rice",
+            "description": "Rice smothered with Yogurt",
+            "price": "$ 9.95"
+        },
+        {
+            "name": "Gulab Jamun",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Rasamalai",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Kheer",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Semiya Payasam",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Badam Halwa",
+            "description": "",
+            "price": "$ 5.95"
+        },
+        {
+            "name": "Kulfi Malai",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Halwa with Ice Cream",
+            "description": "",
+            "price": "$ 6.95"
+        },
+        {
+            "name": "Soda- Coke, D. Coke, Thumps up, Limca sprite, Ginger / Water",
+            "description": "",
+            "price": "$ 2.95"
+        },
+        {
+            "name": "Lassi-Mango",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Hot Drink-Madras Coffee",
+            "description": "",
+            "price": "$ 2.95"
+        },
+        {
+            "name": "Shakes -Vennila",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "D. Coke",
+            "description": "",
+            "price": "$ 1.95"
+        },
+        {
+            "name": "Sprite",
+            "description": "",
+            "price": "$ 1.95"
+        },
+        {
+            "name": "Ginger",
+            "description": "",
+            "price": "$ 1.95"
+        },
+        {
+            "name": "water",
+            "description": "",
+            "price": "$ 1.95"
+        },
+        {
+            "name": "Lassi- Sweet",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Lassi- Salted",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Lassi- Chaas",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Hot Drink-Masala Tea",
+            "description": "",
+            "price": "$ 2.95"
+        },
+        {
+            "name": "Hot Drink- Herbal Tea",
+            "description": "",
+            "price": "$ 2.95"
+        },
+        {
+            "name": "Shakes - Mango",
+            "description": "",
+            "price": "$ 4.95"
+        },
+        {
+            "name": "Shakes -Chikoo",
+            "description": "",
+            "price": "$ 4.95"
+        }
+    ]
+}

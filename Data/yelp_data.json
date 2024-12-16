@@ -1,0 +1,1007 @@
+{
+    "businesses": [
+        {
+            "id": "_sPZ8kWu97HGvVZ-mQIvWg",
+            "alias": "village-the-soul-of-india-hicksville",
+            "name": "Village the soul of india",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bhomw1W-6OQ_hEXgNNfo3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/village-the-soul-of-india-hicksville?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 47,
+            "categories": [
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.8,
+            "coordinates": {
+                "latitude": 40.76656,
+                "longitude": -73.52353
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "11 West Marie St",
+                "address2": null,
+                "address3": "",
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "11 West Marie St",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+15168590057",
+            "display_phone": "(516) 859-0057",
+            "distance": 386.3560986962839,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "1500",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "1500",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "1500",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "1500",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://www.villagesoulofindia.com/app/order/menu",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ae7OC2Uv3TL7KcvIsFy0vg",
+            "alias": "kathis-and-kababs-hicksville",
+            "name": "Kathis & Kababs",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ry2hfCShZLPUmH5e2GikaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kathis-and-kababs-hicksville?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 28,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.768359,
+                "longitude": -73.52434
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "55 Broadway",
+                "address2": "Ste A",
+                "address3": null,
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "55 Broadway",
+                    "Ste A",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+15165957775",
+            "display_phone": "(516) 595-7775",
+            "distance": 590.8043698362978,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://www.kathiskababs.com/Menu.aspx",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ci9LG3eh4ZATHWmy5Lsw0A",
+            "alias": "kabul-grill-hicksville-2",
+            "name": "Kabul Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HjwxlX251uMn7zozr5daJQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kabul-grill-hicksville-2?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 393,
+            "categories": [
+                {
+                    "alias": "afghani",
+                    "title": "Afghan"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7720901,
+                "longitude": -73.5269623
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "129 N Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "129 N Broadway",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+15169338999",
+            "display_phone": "(516) 933-8999",
+            "distance": 1045.467479909056,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "24rLcRLUMoc41SbKGYL7kA",
+            "alias": "taste-of-chennai-hicksville",
+            "name": "Taste Of Chennai",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3NepvUtpJt2CQuTaWA8pwQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taste-of-chennai-hicksville?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 90,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.4,
+            "coordinates": {
+                "latitude": 40.76867725290482,
+                "longitude": -73.5281501211164
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "39 W John St",
+                "address2": "",
+                "address3": null,
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "39 W John St",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+15163961449",
+            "display_phone": "(516) 396-1449",
+            "distance": 759.442107580081,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "1500",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "1500",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "1500",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://www.tasteofchennainy.com/menus",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "kq0YM3YX9tpvMELlGjzTzA",
+            "alias": "kebab-house-hicksville",
+            "name": "Kebab House",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PjlDsFi6e2T1sKQbWkPXMw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-house-hicksville?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 255,
+            "categories": [
+                {
+                    "alias": "afghani",
+                    "title": "Afghan"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "persian",
+                    "title": "Persian/Iranian"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 40.7553319,
+                "longitude": -73.5093498
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "526 S Broadway",
+                "address2": null,
+                "address3": "",
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "526 S Broadway",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+15169353222",
+            "display_phone": "(516) 935-3222",
+            "distance": 1410.7166300122592,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.kebabhouseli.com/categories.php",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "n24ZPh7BqsQ0BCyfEur8NA",
+            "alias": "jazeera-indian-hyderabadi-restaurant-hicksville",
+            "name": "Jazeera Indian Hyderabadi Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zDwn9uzKX1pNgz0YBREJ1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jazeera-indian-hyderabadi-restaurant-hicksville?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 53,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 40.76879768038821,
+                "longitude": -73.52814297669094
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "37 W John St",
+                "address2": "",
+                "address3": null,
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "37 W John St",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+16312293646",
+            "display_phone": "(631) 229-3646",
+            "distance": 770.0358577057302,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": false
+            }
+        },
+        {
+            "id": "k2CGcgVLlIwxna18IW1moA",
+            "alias": "dosa-world-hicksville-2",
+            "name": "Dosa World",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AjbLQDfJ6rMaEEQVph0XpQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dosa-world-hicksville-2?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 172,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 40.7604507,
+                "longitude": -73.5146481
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "355 S Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "355 S Broadway",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+15163904444",
+            "display_phone": "(516) 390-4444",
+            "distance": 725.8966227876299,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2130",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2130",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2130",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2130",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2130",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2130",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2130",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://dosaworld.us/DWMenu.html",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "4xJMZkyHtO6_NHHm8EO7qA",
+            "alias": "chennai-dosas-hicksville",
+            "name": "Chennai Dosas",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HZI2cEUOjaJq5zq_84snpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chennai-dosas-hicksville?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 305,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "rating": 4.2,
+            "coordinates": {
+                "latitude": 40.7658679789793,
+                "longitude": -73.5221992105038
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "128 Broadway",
+                "address2": null,
+                "address3": "",
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "128 Broadway",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+15166815151",
+            "display_phone": "(516) 681-5151",
+            "distance": 311.57124502369277,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "vw7mWm7IMuzGh07T11mA1Q",
+            "alias": "gallifood-hicksville",
+            "name": "Gallifood",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fcWvQ4YueAV9AWyC9dqjFg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gallifood-hicksville?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                }
+            ],
+            "rating": 4.2,
+            "coordinates": {
+                "latitude": 40.75901,
+                "longitude": -73.51388
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "location": {
+                "address1": "400 S Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "400 S Broadway",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+16464996900",
+            "display_phone": "(646) 499-6900",
+            "distance": 876.178270744912,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2100",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "90iKki-oZIFQAfbCvx-L1g",
+            "alias": "punjabi-chaap-corner-hicksville",
+            "name": "Punjabi Chaap Corner",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8qPAsFR7NwKvu7jY2FT7Ig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/punjabi-chaap-corner-hicksville?adjust_creative=9MyUXj06KfiHohj8CigJIg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9MyUXj06KfiHohj8CigJIg",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.2,
+            "coordinates": {
+                "latitude": 40.75721291727424,
+                "longitude": -73.51065382672807
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "495 S Broadway",
+                "address2": "Ste 6",
+                "address3": null,
+                "city": "Hicksville",
+                "zip_code": "11801",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "495 S Broadway",
+                    "Ste 6",
+                    "Hicksville, NY 11801"
+                ]
+            },
+            "phone": "+15165843369",
+            "display_phone": "(516) 584-3369",
+            "distance": 1223.5005116522084,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://punjabichaapcorner.us/menu",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        }
+    ],
+    "total": 40,
+    "region": {
+        "center": {
+            "longitude": -73.52291107177734,
+            "latitude": 40.763118310225096
+        }
+    }
+}
