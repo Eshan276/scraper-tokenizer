@@ -103,6 +103,11 @@ Web scraping utilities to gather menu data from external sources:
     git clone https://github.com/Eshan276/scraper-tokenizer.git
     cd scraper-tokenizer
     ```
+2. **Install Requirements**
+   ```bash
+      pip install -r requirements.txt
+      pip install --upgrade git+https://github.com/m-wrzr/populartimes
+   ```
 
 2. **Run the main application:**
     ```bash
