@@ -106,8 +106,10 @@ Web scraping utilities to gather menu data from external sources:
 
 2. **Run the main application:**
     ```bash
-    python app/main.py
+    uvicorn app.main:app --reload 
     ```
+    and going to the "http://127.0.0.1:8000"  will give u the predicted price 
+    And The full webView is present in `allmenu.html` .
 
 ### Usage
 
