@@ -100,8 +100,8 @@ Web scraping utilities to gather menu data from external sources:
 
 1. **Download the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/Eshan276/scraper-tokenizer.git
+    cd scraper-tokenizer
     ```
 
 2. **Run the main application:**
