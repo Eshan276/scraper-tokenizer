@@ -10,13 +10,32 @@
             background-color: #f4f4f4;
             margin: 0;
             padding: 0;
+            display: flex;
         }
         .menu-container {
+            flex: 2;
             max-width: 800px;
-            margin: 20px auto;
+            margin: 20px;
             padding: 20px;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .side-container {
+            flex: 1;
+            max-width: 400px;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .menu-section {
+            margin-bottom: 20px;
+        }
+        .menu-section h2 {
+            margin: 0 0 10px;
+            font-size: 1.5em;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
         }
         .menu-item {
             border-bottom: 1px solid #ddd;
@@ -52,6 +71,15 @@
             padding: 10px;
             font-size: 1em;
         }
+        .button-container {
+            text-align: right;
+            margin: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
@@ -59,24 +87,27 @@
         <label for="restaurant-select">Choose a restaurant:</label>
         <select id="restaurant-select">
             <option value="chennai-dosas-hicksville.json">Chennai Dosas Hicksville</option>
-            <!-- Add more options here for other JSON files -->
-             <option value="dosaworld.json">Dosa World</option>
-             <option value="kathis-and-kababs-hicksville.json">Kathis and Kababs Hicksville</option>
-             <option value="menu_data_jazzera.json">Jazzera</option>
-             <option value="taste-of-chennai-hicksville.json">Taste of Chennai Hicksville</option>
+            <option value="dosaworld.json">Dosa World</option>
+            <option value="kathis-and-kababs-hicksville.json">Kathis and Kababs Hicksville</option>
+            <option value="menu_data_jazzera.json">Jazzera</option>
+            <option value="taste-of-chennai-hicksville.json">Taste of Chennai Hicksville</option>
         </select>
     </div>
     <div class="menu-container" id="menu-container"></div>
+    <div class="side-container" id="side-container">
+        <!-- Side content will be loaded here -->
+    </div>
+    <div class="button-container">
+        <button id="get-village-menu">Get Village Menu</button>
+    </div>
     <script>
         document.getElementById('restaurant-select').addEventListener('change', function() {
             const selectedFile = this.value;
-            if (selectedFile == "menu_data_jazzera.json") {
-                // alert("Please select a restaurant");
+            if (selectedFile === 'menu_data_jazzera.json') {
                 loadMenu2(selectedFile);
-            }else{
+            } else {
                 loadMenu(selectedFile);
             }
-            
         });
 
         function loadMenu(file) {
@@ -124,6 +155,17 @@
                 })
                 .catch(error => console.error('Error fetching the JSON file:', error));
         }
+
+        document.getElementById('get-village-menu').addEventListener('click', function() {
+            fetch('http://127.0.0.1:8000')
+                .then(response => response.text())
+                .then(html => {
+                    console.log(html);
+                    document.getElementById('side-container').innerHTML = html;
+                })
+                .catch(error => console.error('Error fetching the village menu:', error));
+        });
+
         // Load the default menu on page load
         loadMenu('chennai-dosas-hicksville.json');
     </script>

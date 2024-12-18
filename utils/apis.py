@@ -1,4 +1,5 @@
 import json
+import populartimes
 import requests
 
 YELP_API_KEY = 'ojbBaWjK9ZeHl1vX7IAFmhhHd2_eeBdKxOin35Zxg5mJpdQWjrdmd4yykA7u6oTwb315ELOXqOBR9nYB-_ookMu3ZwQxPB6hH9qg6ae_3ttLMJz5DHqAhoBtCbFVZ3Yx'
@@ -75,11 +76,26 @@ GOOGLE_MAPS_API_KEY = 'AIzaSyAf33U05dBvGemX1OG8thdhjaBH-Tyfp8E'
 
 def fetch_busy_times():
     # Fetch place details and busy times
-    place_id = "village-google-maps-id"
+    place_id = "ChIJG33djyO35zsRt5gOkc7GxB8"
+    # place_id = "ChIJ14lCIb1hwokR8Y8dk3QRYQ4"
     url = f"https://maps.googleapis.com/maps/api/place/details/json?place_id={place_id}&key={GOOGLE_MAPS_API_KEY}"
     response = requests.get(url)
     # print(response.json())
-    return response.json()
+    # print(populartimes.get_id(GOOGLE_MAPS_API_KEY, place_id))
+    result = populartimes.get_id(GOOGLE_MAPS_API_KEY, place_id)
+    finalresult={}
+    current_popularity = result.get('current_popularity')
+    if current_popularity:
+        print(result)
+        print(current_popularity)
+        finalresult['busy_level'] = current_popularity
+    else:
+        finalresult['busy_level'] = 0
 
+    # print(populartimes.get_id(GOOGLE_MAPS_API_KEY, place_id))
+    return finalresult
+
+# fetch_busy_times()
 
 # fetch_weather_data()
+
